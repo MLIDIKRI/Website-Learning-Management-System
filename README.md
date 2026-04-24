@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Learning Management System (LMS)
 
 Sistem Manajemen Pembelajaran Lengkap dengan fitur untuk Guru dan Siswa.
@@ -234,3 +235,10 @@ Open Source - Bebas digunakan dan dimodifikasi
 ---
 
 **Dibuat dengan ❤️ untuk Pendidikan**
+=======
+# Website-Learning-Management-System
+# Sandi-Sandi Login
+# 123456/ admin@lms.com
+# 123456/ teacher1@lms.com
+# 123456/ student1@lms.com
+>>>>>>> 64f3689a6a1a057dc598d2a8c8e071ca3f8d94e8
