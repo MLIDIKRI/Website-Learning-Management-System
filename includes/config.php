@@ -15,7 +15,7 @@ define('SITE_NAME', 'LMS - Learning Management System');
 define('UPLOAD_PATH', 'assets/uploads/');
 define('MAX_FILE_SIZE', 50 * 1024 * 1024); // 50MB
 
-define('DEFAULT_USER_PASSWORD', 'SandiBaru2026'); // Password baru default untuk reset massal
+define('DEFAULT_USER_PASSWORD', '123456'); // Password baru default untuk reset massal
 
 // Session Configuration
 define('SESSION_TIMEOUT', 3600); // 1 hour
