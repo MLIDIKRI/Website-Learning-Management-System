@@ -95,20 +95,9 @@ define('DB_NAME', 'lms_database');
 
 Setelah import demo data:
 
-### Admin
-
-- Username: `admin`
-- Password: `admin123`
-
-### Guru
-
-- Username: `teacher1`
-- Password: `teacher123`
-
-### Siswa
-
-- Username: `student1`
-- Password: `student123`
+- 123456/ admin@lms.com
+- 123456/ teacher1@lms.com
+- 123456/ student1@lms.com
 
 ## 📁 Struktur File
 
@@ -236,9 +225,4 @@ Open Source - Bebas digunakan dan dimodifikasi
 
 **Dibuat dengan ❤️ untuk Pendidikan**
 =======
-# Website-Learning-Management-System
-# Sandi-Sandi Login
-# 123456/ admin@lms.com
-# 123456/ teacher1@lms.com
-# 123456/ student1@lms.com
 >>>>>>> 64f3689a6a1a057dc598d2a8c8e071ca3f8d94e8
